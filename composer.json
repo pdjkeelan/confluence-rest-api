@@ -23,6 +23,10 @@
             "name": "KwangSeob Jeong",
             "email": "lesstif@gmail.com",
             "homepage": "https://lesstif.com/"
+        },
+        {
+            "name": "Paul Keelan",
+            "email": "paulkeelan@rentalcars.com"
         }
     ],
     "autoload": {
